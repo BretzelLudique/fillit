@@ -6,4 +6,4 @@ Le programme prend en paramètre un fichier décrivant une liste de Tetriminos (
 
 usage: ./fillit [file]
 
-![un exemple](https://github.com/BretzelLudique/fillit/blob/master/screenshot.png "un exemple")
+![un exemple](https://github.com/BretzelLudique/fillit/blob/main/screenshot.png)
